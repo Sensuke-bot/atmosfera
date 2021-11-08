@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+atmosfera/*
+cout_ecv_EUR-44_rcp45_IMPACT2C_QM-EOBS_1971-2000_remap0.5.nc/*
+cout_ecv_EUR-44_rcp85_IMPACT2C_QM-EOBS_1971-2000_remap0.5.nc/*
